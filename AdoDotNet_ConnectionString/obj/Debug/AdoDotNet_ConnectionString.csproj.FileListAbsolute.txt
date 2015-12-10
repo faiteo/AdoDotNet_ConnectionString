@@ -1,0 +1,11 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\bin\Debug\AdoDotNet_ConnectionString.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\bin\Debug\EmployeeDatabase.mdf
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\bin\Debug\EmployeeDatabase_log.ldf
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\bin\Debug\AdoDotNet_ConnectionString.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\bin\Debug\AdoDotNet_ConnectionString.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.Form1.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.Properties.Resources.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.csproj.GenerateResource.Cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\AdoDotNet_ConnectionString\AdoDotNet_ConnectionString\obj\Debug\AdoDotNet_ConnectionString.pdb
